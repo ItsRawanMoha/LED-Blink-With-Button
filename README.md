@@ -4,17 +4,17 @@ Welcome to the LED Blink With Button Task! This task demonstrates how to control
 
 ## Introduction
 
-The LED Blink With Button project aims to provide a practical example of interfacing a button with a microcontroller to control an LED. 
+The LED Blink With Button task aims to provide a practical example of interfacing a button with a microcontroller to control an LED. 
 
 ## How it Works
 
-The project works by utilizing a pushbutton as an input device to control the state of an LED. When the pushbutton is pressed, it changes the state of the LED from on to off or vice versa. The Arduino continuously monitors the state of the pushbutton and updates the LED accordingly.
+The task works by utilizing a pushbutton as an input device to control the state of an LED. When the pushbutton is pressed, it changes the state of the LED from on to off or vice versa. The Arduino continuously monitors the state of the pushbutton and updates the LED accordingly.
 
 ## Getting Started
 
 ### Components Required
 
-To build this project, you will need the following components:
+To build this task, you will need the following components:
 
 - Arduino board (e.g., Arduino Uno)
 - LED (any color)
@@ -88,4 +88,4 @@ void loop() {
 
 ## Conclusion
 
-The LED Blink With Button project provides a practical demonstration of how to interface a button with a microcontroller to control an LED. 
+The LED Blink With Button task provides a practical demonstration of how to interface a button with a microcontroller to control an LED. 
