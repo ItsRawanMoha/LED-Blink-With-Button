@@ -32,15 +32,12 @@ Follow these steps to set up the circuit:
 4. Connect the cathode (shorter leg) of the LED to the ground (GND) pin on the Arduino.
 5. Ensure all components are securely connected to the breadboard.
 
-| Arduino       | Pushbutton     |
-| ------------- | -------------- |
-| 8             | 8              |
-| GND           | GND            |
+| Arduino       | LED            | Pushbutton    |
+| ------------- | -------------- | ------------- |
+| 13            | Anode (+)      |               |
+| GND           | Cathode (-)    | One leg pin 8 |
+|               |                | Other leg GND |
 
-| Arduino       | LED            |
-| ------------- | -------------- |
-| 13            | Anode          |
-| GND           | Cathode        |
 
 
 ## Connection
